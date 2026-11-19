@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "semisolid") (type "KiCad") (uri "${KIPRJMOD}/semisolid.pretty") (options "") (descr ""))
+)
